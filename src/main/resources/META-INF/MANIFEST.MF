@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Main-Class: com.example.demo.Demo1Application
+Class-Path: xstream-1.4.13.jar eureka-client-1.10.10.jar jackson-jaxrs-j
+ son-provider-2.13.2.jar jettison-1.4.0.jar javax.inject-1.jar commons-l
+ ogging-1.1.3.jar jersey-apache-client4-1.19.1.jar tomcat-embed-core-9.0
+ .62.jar commons-codec-1.15.jar listenablefuture-9999.0-empty-to-avoid-c
+ onflict-with-guava.jar spring-boot-starter-web-2.6.7.jar jackson-jaxrs-
+ base-2.13.2.jar spring-boot-starter-tomcat-2.6.7.jar spring-boot-starte
+ r-json-2.6.7.jar spring-boot-autoconfigure-2.6.7.jar guice-4.1.0.jar xp
+ p3_min-1.1.4c.jar commons-math-2.2.jar spectator-api-0.122.0.jar spring
+ -expression-5.3.19.jar spring-boot-starter-logging-2.6.7.jar guava-30.0
+ -jre.jar antlr-runtime-3.4.jar slf4j-api-1.7.36.jar stringtemplate-3.2.
+ 1.jar conductor-annotations-3.3.6.jar xmlpull-1.1.3.1.jar jul-to-slf4j-
+ 1.7.36.jar jakarta.annotation-api-1.3.5.jar guava-retrying-2.0.0.jar lo
+ g4j-to-slf4j-2.17.2.jar jackson-module-jaxb-annotations-2.13.2.jar jsr3
+ 05-3.0.2.jar logback-classic-1.2.11.jar httpclient-4.5.13.jar spring-we
+ b-5.3.19.jar conductor-client-spring-3.3.6.jar spring-jcl-5.3.19.jar er
+ ror_prone_annotations-2.3.4.jar spring-webmvc-5.3.19.jar jackson-dataty
+ pe-jsr310-2.13.2.jar jsr311-api-1.1.1.jar commons-jxpath-1.3.jar netfli
+ x-infix-0.3.0.jar spring-context-5.3.19.jar conductor-client-3.3.6.jar 
+ bval-jsr-2.0.5.jar jakarta.xml.bind-api-2.3.3.jar commons-configuration
+ -1.10.jar dexx-collections-0.2.jar ion-java-1.0.1.jar archaius-core-0.7
+ .6.jar servlet-api-2.5.jar logback-core-1.2.11.jar aopalliance-1.0.jar 
+ commons-lang3-3.12.0.jar aws-java-sdk-core-1.11.86.jar failureaccess-1.
+ 0.1.jar j2objc-annotations-1.3.jar commons-io-2.7.jar tomcat-embed-el-9
+ .0.62.jar spring-core-5.3.19.jar spring-boot-2.6.7.jar jackson-dataform
+ at-cbor-2.13.2.jar jackson-core-2.13.2.jar jackson-annotations-2.13.2.j
+ ar jersey-client-1.19.4.jar snakeyaml-1.29.jar jackson-databind-2.13.2.
+ 1.jar spring-beans-5.3.19.jar protobuf-java-3.13.0.jar httpcore-4.4.15.
+ jar gson-2.8.9.jar tomcat-embed-websocket-9.0.62.jar jackson-module-par
+ ameter-names-2.13.2.jar conductor-common-3.3.6.jar netflix-eventbus-0.3
+ .0.jar jersey-core-1.19.1.jar compactmap-2.0.jar antlr-2.7.7.jar spring
+ -boot-starter-2.6.7.jar joda-time-2.8.1.jar jackson-datatype-jdk8-2.13.
+ 2.jar log4j-api-2.17.2.jar jakarta.activation-api-1.2.2.jar commons-lan
+ g-2.6.jar spring-aop-5.3.19.jar servo-core-0.12.21.jar checker-qual-3.5
+ .0.jar
+
